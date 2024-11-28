@@ -1,0 +1,7 @@
+{
+    "typescript.format.enable": true,
+    "editor.defaultFormatter": null,
+    "yaml.format.singleQuote": true,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single"
+}
